@@ -3,8 +3,6 @@ layout: post
 title: 마크다운
 ---
 
-# 마크다운 사용법
-
 ### 마크다운(Markdown) 문법정리
 
 > ### 제목(Heading)       *(← 글씨색깔은 어떻게 바꿀까?)*
@@ -22,16 +20,11 @@ title: 마크다운
 ### Heading
 ###### Heading
 ```
-
-------
-
 # Heading
-
 ### Heading
-
 ###### Heading
 
-------
+
 
 *(↑ 이 수평선은 --- 넣으면됨)*
 
