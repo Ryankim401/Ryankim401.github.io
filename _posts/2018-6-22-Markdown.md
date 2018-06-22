@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 마크다운
+title: Markdown
 ---
 
->### 마크다운(Markdown) 문법정리
+> ### 마크다운(Markdown) 문법정리
 
 ### 제목(Heading)       *(← 글씨색깔은 어떻게 바꿀까?)*
 
