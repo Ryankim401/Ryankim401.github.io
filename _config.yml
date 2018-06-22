@@ -4,18 +4,18 @@
 permalink: /:title/
 
 # Setup
-title:               Sedric Park blog
+title:               Ryan Kim blog
 tagline:             
 description:         Blockchain and Research
-url:                 https://SedricPark.github.io
+url:                 https://RyanKim401.github.io
 baseurl:             ''
 paginate:            10
 
 # About/contact
 author:
-  name:              Sedric Park
-  url:               https://SedricPark.github.io
-  email:             nakarjuna@icloud.com
+  name:              Ryan kim
+  url:               https://RyanKim401.github.io
+  email:             ryankim401@gmail.com
 
 # Custom vars
 version:             1.0.0
