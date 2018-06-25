@@ -227,10 +227,10 @@ title: Markdown
 > ### 이미지 삽입(Images)
 
 ```
-![대체 텍스트](C:\Users\YANGUK\Desktop\개발 학습\github\electrocat.jpg)
+![대체 텍스트](C:\Users\YANGUK\Desktop\study\github\electrocat.jpg)
 ```
 
-![electrocat](C:\Users\YANGUK\Desktop\개발 학습\github\electrocat.jpg)
+![electrocat](C:\Users\YANGUK\Desktop\study\github\electrocat.jpg)
 
 > ### 링크(Links)
 
