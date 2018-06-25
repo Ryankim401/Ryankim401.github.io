@@ -21,15 +21,15 @@ title: Python Study 4
 	    4
     ```
 
-예2) C
+    예2) C
 
-~~~c
-```C
-for(int i=0; i<4; i++) {
-    print()
-}
-```
-~~~
+    ~~~c
+    ```C
+    for(int i=0; i<4; i++) {
+        print()
+    }
+    ```
+    ~~~
 
 #### 들여쓰기(Indentation)
 
@@ -39,56 +39,56 @@ for(int i=0; i<4; i++) {
   - 코드의 가독성 증대
 - 하나의 들여쓰기는 <u>Python Style Guide #Indentation</u> 에 따라, **공백 4칸**을 권장
 
-**C코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
+    **C코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
 
-~~~c
-```C
-#include<stdio.h>
+    ~~~c
+    ```C
+    #include<stdio.h>
 
-int main() {
-int max = 10;
-int result = 0;
-for(int i=0; i<=max; i++){
-result = result + i;
-}
-printf("result = %d\n", result);
-return 0;
-}
-~~~
-
-**PHP 코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
-
-```php
-<?
-$max = 10;
-$result = 0;
-for ($i=0; $i<=$max; $i++){
-$result = $result + $i;
-}
-echo "result - $result";
-?>    
-```
-
-**JavaScript 코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
-
-```javascript
-var max = 10;
-var result = 0;
-for(var i=0; i<=max, i++){
+    int main() {
+    int max = 10;
+    int result = 0;
+    for(int i=0; i<=max; i++){
     result = result + i;
-}
-console.log("result = %s", result);
-```
+    }
+    printf("result = %d\n", result);
+    return 0;
+    }
+    ~~~
 
-**Python 코드**
+    **PHP 코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
 
-```python
-max = 10;
-result = 0;
-for i in range(max+1):
-    result = result + i      # 들여쓰기(Indentation) 강제
-print("result = %d" % result)
-```
+    ```php
+    <?
+    $max = 10;
+    $result = 0;
+    for ($i=0; $i<=$max; $i++){
+    $result = $result + $i;
+    }
+    echo "result - $result";
+    ?>    
+    ```
+
+    **JavaScript 코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
+
+    ```javascript
+    var max = 10;
+    var result = 0;
+    for(var i=0; i<=max, i++){
+        result = result + i;
+    }
+    console.log("result = %s", result);
+    ```
+
+    **Python 코드**
+
+    ```python
+    max = 10;
+    result = 0;
+    for i in range(max+1):
+        result = result + i      # 들여쓰기(Indentation) 강제
+    print("result = %d" % result)
+    ```
 
 IndentationError
 
