@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python study 01
+title: Python Study 1
 ---
 
 ## Python study Ep01 시작환경 구축하기
