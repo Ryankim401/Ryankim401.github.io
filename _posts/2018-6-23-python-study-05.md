@@ -2,8 +2,8 @@
 layout: post
 title: Python Study 05
 ---
-## Python study Ep05 흐름 제어
 
+## Python study Ep05 흐름 제어
 
 
 ### 조건문 : if문
