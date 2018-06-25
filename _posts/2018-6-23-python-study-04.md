@@ -125,37 +125,37 @@ title: Python Study 4
     # 주석2
     ```
 
-​	'문자열이지만, 주석처럼 쓰기도 다'
+  ​	'문자열이지만, 주석처럼 쓰기도 다'
 
-​	' ' ' 이것도 문자열이지만, 
+  ​	' ' ' 이것도 문자열이지만, 
 
-​	주석처럼 쓰기도 다.' ' ' 
+  ​	주석처럼 쓰기도 다.' ' ' 
 
-**문자열은 주석이 아니다.**
+  **문자열은 주석이 아니다.**
 
-어디까지나 문자열일 뿐 주석이 아니다. 아래 코드는 SyntaxError가 발생
+    어디까지나 문자열일 뿐 주석이 아니다. 아래 코드는 SyntaxError가 발생
 
-```python
-' ' ' 설명설명
-' ' '
-name = {
-	'Tom': 10,
-	'Steve': 12,
-	' ' '
-	'John': 9,
-	'Anderson': 14,
-	'Bell': 8,
-	' ' '
-}
-
-def mysun(a,b,c):
-    ' ' '세 인자를 받아서, 더한 값을 리턴해준다
+    ```python
+    ' ' ' 설명설명
     ' ' '
-    return a + b + c
+    name = {
+	    'Tom': 10,
+	    'Steve': 12,
+	    ' ' '
+	    'John': 9,
+	    'Anderson': 14,
+	    'Bell': 8,
+	    ' ' '
+    }
 
-mysum?
-mysum.__doc__ (iPython이 아닌경우)
-```
+    def mysun(a,b,c):
+        ' ' '세 인자를 받아서, 더한 값을 리턴해준다
+        ' ' '
+        return a + b + c
+
+    mysum?
+    mysum.__doc__ (iPython이 아닌경우)
+    ```
 
  *Docstring : 함수정의 시작하고나서 바로 쓰는것
 
