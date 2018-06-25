@@ -41,7 +41,7 @@ title: Python Study 4
 
     **C코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
 
-      ~~~c
+      ```c
       #include<stdio.h>
 
       int main() {
@@ -53,7 +53,7 @@ title: Python Study 4
       printf("result = %d\n", result);
       return 0;
       }
-      ~~~
+      ```
 
     **PHP 코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
 
