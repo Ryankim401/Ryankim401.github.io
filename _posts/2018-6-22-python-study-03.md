@@ -3,7 +3,7 @@ layout: post
 title: Python Study 3
 ---
 
-## Python study Ep02 데이터 타입
+## Python Study Ep02 데이터 타입
 
 
 
