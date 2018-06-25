@@ -3,7 +3,7 @@ layout: post
 title: Python Study 4
 ---
 
-### Python study Ep03 블록문(Block Statement)
+## Python study Ep03 블록문(Block Statement)
 
 - 블록문(Block Statement) : 연속된 코드의 묶음
 - 코드는 다수의 블록문으로 구성. 블록문 안에 다수의 블록문 중첩
