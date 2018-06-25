@@ -1,6 +1,7 @@
 ---
 layout: post
-title: python study 03
+title: Python Study 3
+---
 
 ## Python study Ep02 데이터 타입
 
