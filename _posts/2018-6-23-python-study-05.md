@@ -27,7 +27,7 @@ title: Python Study 05
 - 코드 A
 
   ```python
-  nuber = int(input('Enter number : '))
+  number = int(input('Enter number : '))
   
   if number > 0:
       print('%d is positive number.' % number)
