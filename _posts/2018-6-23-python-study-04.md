@@ -3,23 +3,23 @@ layout: post
 title: Python Study 4
 ---
 
-## Python study Ep03 블록문(Block Statement)
+## Python study Ep04 블록문(Block Statement)
 
 - 블록문(Block Statement) : 연속된 코드의 묶음
 - 코드는 다수의 블록문으로 구성. 블록문 안에 다수의 블록문 중첩
 - 블록 구분 : 들여쓰기(Indent), 다른 언어에서는 중괄호({})
 
-예1) Python
+  예1) Python
 
-```python
-for i in range(4);
-	print(i)
-(공백 4칸)
-	1 
-	2
-	3
-	4
-```
+    ```python
+    for i in range(4);
+	    print(i)
+    (공백 4칸)
+	    1 
+	    2
+	    3
+	    4
+    ```
 
 예2) C
 
