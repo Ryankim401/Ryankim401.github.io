@@ -126,16 +126,16 @@ title: Python Study 4
     ```
 
     ```
-    ​	'문자열이지만, 주석처럼 쓰기도 한다'
+​	'문자열이지만, 주석처럼 쓰기도 한다'
 
-    ​	' ' ' 이것도 문자열이지만, 
+​	' ' ' 이것도 문자열이지만, 
 
-    ​	주석처럼 쓰기도 한다.' ' ' 
+​	주석처럼 쓰기도 한다.' ' ' 
     ```
 
   **문자열은 주석이 아니다.**
 
-    어디까지나 문자열일 뿐 주석이 아니다. 아래 코드는 SyntaxError가 발생
+      어디까지나 문자열일 뿐 주석이 아니다. 아래 코드는 SyntaxError가 발생
 
     ```python
     ' ' ' 설명설명
@@ -159,9 +159,9 @@ title: Python Study 4
     mysum.__doc__ (iPython이 아닌경우)
     ```
 
- *Docstring : 함수정의 시작하고나서 바로 쓰는것
+    *Docstring : 함수정의 시작하고나서 바로 쓰는것
 
- **PEP 8 : Style Guide for Python Code**
+ ### PEP 8 : Style Guide for Python Code
 
 - PEP : Python Enhancements Proposals
 - 일관성있는 코드 스타일을 위한 코드 스타일 제안
