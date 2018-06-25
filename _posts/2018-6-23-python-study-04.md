@@ -23,13 +23,11 @@ title: Python Study 4
 
     예2) C
 
-    ~~~c
-    ```C
+    ```c
     for(int i=0; i<4; i++) {
         print()
     }
     ```
-    ~~~
 
 #### 들여쓰기(Indentation)
 
