@@ -29,7 +29,7 @@ title: Python Study 4
     }
     ```
 
-#### 들여쓰기(Indentation)
+### 들여쓰기(Indentation)
 
 - 들여쓰기는 Tabs 또는 Spaces로 입력
   - Github 코드 저장소에서의 Tabs/Spaces 사용 통계
@@ -87,43 +87,43 @@ title: Python Study 4
     print("result = %d" % result)
     ```
 
-IndentationError
+    **IndentationError**
 
-- 일관된 들여쓰기를 지키지 않는다면 IndentationError 발생
-- Tab과 Space는 엄연히 다른 글자입니다.
+    - 일관된 들여쓰기를 지키지 않는다면 IndentationError 발생
+    - Tab과 Space는 엄연히 다른 글자입니다.
 
-```python
-max = 10
-result = 0
-for i in range(max+1):
-result = result + i           # 들여쓰기(Indentation) 빠졌음
-Print("result = %d" % result)
-```
+    ```python
+    max = 10
+    result = 0
+    for i in range(max+1):
+    result = result + i           # 들여쓰기(Indentation) 빠졌음
+    Print("result = %d" % result)
+    ```
 
-탭>스페이스, 자동변환 기능
+    **탭>스페이스, 자동변환 기능**
 
-- 요즘 대개의 소스코드 편집기에서 자동변환 기능을 제공
-- Visual Studio Code : 디폴트 활성화
-- Sublime Text 3 : 아래 설정이 필요
+    - 요즘 대개의 소스코드 편집기에서 자동변환 기능을 제공
+    - Visual Studio Code : 디폴트 활성화
+    - Sublime Text 3 : 아래 설정이 필요
 
-```
-{
-    "tab_size"; 4,
-    "translate_tabs_to+spaces": ture
-}
-```
+    ```
+    {
+        "tab_size"; 4,
+        "translate_tabs_to+spaces": ture
+    }
+    ```
 
-#### 주석(Comments)
+### 주석(Comments)
 
 - 소스코드는 설명하기 위한 목적
 - 주석으로 쓴 부분은 실행되지 않습니다. 
 - 파이썬에서의 주석 문법은 "1줄 주석"문법만 지원
   - "여러 줄 주석" 문법은 "문자열"로서 표기
 
-```python
-# 주석1
-# 주석2
-```
+    ```python
+    # 주석1
+    # 주석2
+    ```
 
 ​	'문자열이지만, 주석처럼 쓰기도 다'
 
