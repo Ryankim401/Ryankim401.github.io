@@ -50,6 +50,6 @@ title: Python study 01
 
   - 파일 - 폴더열기 - 현재디렉토리 새파일 생성
 
-  - ![1529738420575](C:\Users\YANGUK\AppData\Local\Temp\1529738420575.png)
+  - ![1529738420575](C:\Users\YANGUK\desktop\study\github\img\Ep01_1.png)
 
     *(코드 입력 후 항상 저장을 해야한다.)*
