@@ -41,19 +41,19 @@ title: Python Study 4
 
     **C코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
 
-      ```c
-      #include<stdio.h>
+    ```c
+    #include<stdio.h>
 
-      int main() {
-      int max = 10;
-      int result = 0;
-      for(int i=0; i<=max; i++){
-      result = result + i;
-      }
-      printf("result = %d\n", result);
-      return 0;
-      }
-      ```
+    int main() {
+    int max = 10;
+    int result = 0;
+    for(int i=0; i<=max; i++){
+    result = result + i;
+    }
+    printf("result = %d\n", result);
+    return 0;
+    }
+    ```
 
     **PHP 코드.** 들여쓰기가 없어도 중괄호를 통해 블록 구분 가능
 
