@@ -1,5 +1,5 @@
 ---
-category: Python
+categories: Python
 title: Python Study 1
 ---
 
