@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Study 05
+title: Python Study 06
 ---
 ## Python study Ep06 함수
 
