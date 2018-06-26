@@ -1,5 +1,5 @@
 ---
-layout: post
+category: Python
 title: Python Study 1
 ---
 
