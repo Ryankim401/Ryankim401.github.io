@@ -1,5 +1,5 @@
 ---
-layout: post
+categories: Markdown
 title: Markdown
 ---
 
