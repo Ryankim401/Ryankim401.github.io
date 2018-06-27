@@ -1,6 +1,6 @@
 ---
 categories: Python
-title: Python Study 06
+title: Python Study 6
 ---
 ## Python study Ep06 함수
 
