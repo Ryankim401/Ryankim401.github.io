@@ -1,5 +1,5 @@
 ---
-layout: categories
+categories: Python
 title: Python Study 4
 ---
 
