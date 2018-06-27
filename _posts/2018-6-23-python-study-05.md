@@ -1,6 +1,6 @@
 ---
 categories : Python
-title: Python Study 05
+title: Python Study 5
 ---
 
 ## Python study Ep05 흐름 제어
