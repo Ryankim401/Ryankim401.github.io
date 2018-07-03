@@ -1,6 +1,6 @@
 ---
 catagories: Python
-title: Post
+title: Python Study 7
 ---
 
 
