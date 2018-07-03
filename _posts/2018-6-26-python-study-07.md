@@ -1,6 +1,6 @@
 ---
 catagories: Python
-layout: Post
+title: Post
 ---
 
 
