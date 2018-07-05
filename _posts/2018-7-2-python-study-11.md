@@ -1,5 +1,5 @@
 ---
-catagories: Python
+categories: Python
 title: Python Study 11
 ---
 ## Python Study Ep11 빌트인 함수, 정렬
