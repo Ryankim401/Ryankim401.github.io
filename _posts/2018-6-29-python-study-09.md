@@ -1,5 +1,5 @@
 ---
-categoreis: Python
+categories: Python
 title: Python Study 9
 ---
 
