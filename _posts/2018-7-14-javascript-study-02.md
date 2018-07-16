@@ -3,9 +3,9 @@ categories: JavaScript
 title: JavaScript Study EP 2
 ---
 
----
+
 *이 게시글은 학습목적으로 작성되었으며 생활코딩(opentutorial.org)의 온라인 강의 내용에 대한 정리입니다.*
----
+
 
 ## 함수지향
 
